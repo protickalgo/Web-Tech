@@ -1,0 +1,55 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin-left: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+fieldset{
+    background-color: #fff;
+    width:500px;
+    height: 450px;
+}
+
+form {
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="number"] {
+    width: 30%;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+}
+
+
+table {
+    width: 20%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    width: 10%;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+}
+
